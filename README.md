@@ -1,2 +1,2 @@
 # Textbasedgame
-A 4 option text based game
+A 4 option textbased game
